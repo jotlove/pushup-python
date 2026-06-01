@@ -5,7 +5,7 @@ Counts push-ups from a **front-facing** webcam. Uses **OpenCV** for video, **Med
 ## Setup
 
 ```bash
-cd /Users/lovejot/Projects/pushup-tracker
+cd /pushup-tracker
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
